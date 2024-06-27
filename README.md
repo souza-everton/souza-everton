@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**souza-everton/souza-everton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, eu sou o Everton 🙋‍♂️
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton--souza/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Everton GitHub stats](https://github-readme-stats.vercel.app/api?username=souza-everton&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souza-everton)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tecnologias Que Utilizo 👨🏻‍💻
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  
+</div>
