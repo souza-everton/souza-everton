@@ -4,7 +4,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton--souza/)
 
-![Everton GitHub stats](https://github-readme-stats.vercel.app/api?username=souza-everton&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souza-everton)](https://github.com/anuraghazra/github-readme-stats)
+![Everton GitHub stats](https://github-readme-stats.vercel.app/api?username=souza-everton&show_icons=true&theme=tokyonight)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souza-everton)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias Que Utilizo 👨🏻‍💻
 
